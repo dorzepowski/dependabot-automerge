@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/BuxOrg/go-buxclient v0.3.7
-	github.com/bitcoinschema/go-bitcoin/v2 v2.0.4
+	github.com/bitcoinschema/go-bitcoin/v2 v2.0.5
 )
 
 require (
