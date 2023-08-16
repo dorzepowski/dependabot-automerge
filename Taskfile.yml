@@ -4,7 +4,7 @@ tasks:
   test:
     desc: Run tests
     cmds:
-      - test 100 -gt 99
+      - test 100 -gt 199
   lint:
     desc: Run lint
     cmds:

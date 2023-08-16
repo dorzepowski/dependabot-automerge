@@ -3,13 +3,13 @@ module github.com/dorzepowski/dependabot-automerge
 go 1.20
 
 require (
-	github.com/BuxOrg/go-buxclient v0.3.0
-	github.com/bitcoinschema/go-bitcoin/v2 v2.0.5
+	github.com/BuxOrg/go-buxclient v0.3.1
+	github.com/bitcoinschema/go-bitcoin/v2 v2.0.3
 )
 
 require (
 	github.com/99designs/gqlgen v0.17.31 // indirect
-	github.com/BuxOrg/bux v0.5.0 // indirect
+	github.com/BuxOrg/bux v0.5.1 // indirect
 	github.com/bitcoinschema/go-bpu v0.0.8 // indirect
 	github.com/bitcoinschema/go-map v0.0.17 // indirect
 	github.com/bitcoinsv/bsvd v0.0.0-20190609155523-4c29707f7173 // indirect
@@ -58,11 +58,11 @@ require (
 	github.com/matryer/respond v1.0.1 // indirect
 	github.com/mattn/go-sqlite3 v1.14.16 // indirect
 	github.com/miekg/dns v1.1.54 // indirect
-	github.com/montanaflynn/stats v0.7.0 // indirect
+	github.com/montanaflynn/stats v0.7.1 // indirect
 	github.com/mrz1836/go-api-router v0.5.1 // indirect
 	github.com/mrz1836/go-cache v0.8.0 // indirect
 	github.com/mrz1836/go-cachestore v0.2.0 // indirect
-	github.com/mrz1836/go-datastore v0.3.1 // indirect
+	github.com/mrz1836/go-datastore v0.4.0 // indirect
 	github.com/mrz1836/go-logger v0.3.2 // indirect
 	github.com/mrz1836/go-nownodes v0.1.0 // indirect
 	github.com/mrz1836/go-parameters v0.3.1 // indirect
@@ -104,7 +104,7 @@ require (
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
-	golang.org/x/tools v0.8.0 // indirect
+	golang.org/x/tools v0.9.1 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	google.golang.org/grpc v1.55.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
@@ -112,6 +112,6 @@ require (
 	gorm.io/driver/mysql v1.5.0 // indirect
 	gorm.io/driver/postgres v1.5.0 // indirect
 	gorm.io/driver/sqlite v1.5.0 // indirect
-	gorm.io/gorm v1.25.0 // indirect
+	gorm.io/gorm v1.25.1 // indirect
 	gorm.io/plugin/dbresolver v1.4.1 // indirect
 )
