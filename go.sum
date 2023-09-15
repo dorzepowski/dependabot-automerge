@@ -1,7 +1,7 @@
-github.com/BuxOrg/bux-models v0.1.2 h1:MUtqwnhJuSNaXXglMtTltVh+QYTyQPV6wBERogQmMYM=
-github.com/BuxOrg/bux-models v0.1.2/go.mod h1:nH3MOdsIPPerBPOiEvwA01yTeArYtBk+PtDo7E+vPCk=
-github.com/BuxOrg/go-buxclient v0.3.10 h1:2pwIlxY7dH+5tDxukEdvyi5oGP/wg03+xFlU92n8IxQ=
-github.com/BuxOrg/go-buxclient v0.3.10/go.mod h1:PLdv4Fgrn1nN5A5Vai2uMr5fUT3X+UtJSXtPS+3r3Jc=
+github.com/BuxOrg/bux-models v0.2.1 h1:wgNTYCqisH3M+Z87hb0Jpbxc8MMdOEJ35mdw/WoZ73k=
+github.com/BuxOrg/bux-models v0.2.1/go.mod h1:nH3MOdsIPPerBPOiEvwA01yTeArYtBk+PtDo7E+vPCk=
+github.com/BuxOrg/go-buxclient v0.3.11 h1:gUs3ZowIdQBw51NE5wmrF7Gy//GJp89hKV2DtKEC80g=
+github.com/BuxOrg/go-buxclient v0.3.11/go.mod h1:llpPyhGZxNTFRVsngy8vttNq3yrU7FMTyJDgIPHZaQs=
 github.com/bitcoinschema/go-bitcoin/v2 v2.0.5 h1:Sgh5Eb746Zck/46rFDrZZEXZWyO53fMuWYhNoZa1tck=
 github.com/bitcoinschema/go-bitcoin/v2 v2.0.5/go.mod h1:JjO1ivfZv6vhK0uAXzyH08AAHlzNMAfnyK1Fiv9r4ZA=
 github.com/bitcoinsv/bsvd v0.0.0-20190609155523-4c29707f7173 h1:2yTIV9u7H0BhRDGXH5xrAwAz7XibWJtX2dNezMeNsUo=
