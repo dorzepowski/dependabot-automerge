@@ -3,7 +3,7 @@ module github.com/dorzepowski/dependabot-automerge
 go 1.20
 
 require (
-	github.com/BuxOrg/go-buxclient v0.3.11
+	github.com/BuxOrg/go-buxclient v0.3.12
 	github.com/bitcoinschema/go-bitcoin/v2 v2.0.5
 )
 
