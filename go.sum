@@ -2,8 +2,8 @@ github.com/BuxOrg/bux-models v0.3.0 h1:+pvpDdYaiIgeOhAO847RK07Vzc+vuUvy2ok/xJevQ
 github.com/BuxOrg/bux-models v0.3.0/go.mod h1:JCpoXxVnKZmCy3rg6nOtLQL5AXh6iEo2tBvcD/qAxEY=
 github.com/BuxOrg/go-buxclient v0.4.2 h1:XFPCJoinoQP6bDCN1SfGk3P0HwCPX5vlDlEQbGmtJ9Q=
 github.com/BuxOrg/go-buxclient v0.4.2/go.mod h1:XI5dhKoNb28gfBZX1TdJB7N/p+Y5GkDnv0tU3DMg9/A=
-github.com/bitcoinschema/go-bitcoin/v2 v2.2.0 h1:Hw4rEwmyWzTH/LI4HVWVJWsFENK13yJfHt1gcIFIvKk=
-github.com/bitcoinschema/go-bitcoin/v2 v2.2.0/go.mod h1:7hmX53IHgEBIfYvxhQ1AvZy14zlwTK7tvLUpK0/r7vg=
+github.com/bitcoinschema/go-bitcoin/v2 v2.3.0 h1:oL7+mptATnLirx5vn9sEqVYzqH+Lyr3sxDPxHfAYRFQ=
+github.com/bitcoinschema/go-bitcoin/v2 v2.3.0/go.mod h1:53EyHUmk+k4jePsrrxwnerHuiIXdb9hDTnnMBpRGJ+k=
 github.com/bitcoinsv/bsvd v0.0.0-20190609155523-4c29707f7173 h1:2yTIV9u7H0BhRDGXH5xrAwAz7XibWJtX2dNezMeNsUo=
 github.com/bitcoinsv/bsvd v0.0.0-20190609155523-4c29707f7173/go.mod h1:BZ1UcC9+tmcDEcdVXgpt13hMczwJxWzpAn68wNs7zRA=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -18,7 +18,7 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-golang.org/x/crypto v0.48.0 h1:/VRzVqiRSggnhY7gNRxPauEQ5Drw9haKdM0jqfcCFts=
-golang.org/x/crypto v0.48.0/go.mod h1:r0kV5h3qnFPlQnBSrULhlsRfryS2pmewsg+XfMgkVos=
+golang.org/x/crypto v0.50.0 h1:zO47/JPrL6vsNkINmLoo/PH1gcxpls50DNogFvB5ZGI=
+golang.org/x/crypto v0.50.0/go.mod h1:3muZ7vA7PBCE6xgPX7nkzzjiUq87kRItoJQM1Yo8S+Q=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
