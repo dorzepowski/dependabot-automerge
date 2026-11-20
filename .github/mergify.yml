@@ -34,7 +34,7 @@ pull_request_rules:
       - "#assignee=0"
     actions:
       assign:
-        users: ["{{author}}"]
+        users: ["{{ author }}"]
 
 
   # ===============================================================================
@@ -57,8 +57,3 @@ pull_request_rules:
   # BRANCHES
   # ===============================================================================
 
-  - name: Delete head branch after merge
-    conditions:
-      - merged
-    actions:
-      delete_head_branch:
